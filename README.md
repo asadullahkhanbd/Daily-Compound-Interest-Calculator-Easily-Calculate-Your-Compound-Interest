@@ -12,7 +12,7 @@ A simple, responsive compound interest calculator built with HTML, CSS, and Java
 
 ## 📸 Screenshot
 
-![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRCbhUDbeMVVHtsaZgB2XRhYBHoTDDv7NG_TLGyksr3n9p7m_bVIV7LgVPrqJGDAoQW73pxRRsqFHZydDOPoStt9ocPhjt-cK4JFkQh1MkwzagVF5k2OjsOUUh72294OSkFIxnk3Sw-2UC2kF7Da0dTna4ye49y8_9cNoJr7HjiHFH2dnSD5x2oHPbEzw/s600/download%20%281%29.jpg)
+![App Screenshot](https://i.ibb.co.com/5h6mjBxT/Screenshot-2025-08-05-133108.png)
 
 ---
 
