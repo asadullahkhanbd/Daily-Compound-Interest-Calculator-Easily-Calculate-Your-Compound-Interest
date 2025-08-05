@@ -52,7 +52,7 @@ Where:
 
 1. Clone the repo:
 
-git clone https://github.com/your-username/daily-compound-interest-calculator.git
+git clone (https://github.com/asadullahkhanbd/Daily-Compound-Interest-Calculator-Easily-Calculate-Your-Compound-Interest.git)
 
 2. Open `index.html` in your browser.
 3. Done!
