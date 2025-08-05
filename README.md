@@ -6,7 +6,7 @@ A simple, responsive compound interest calculator built with HTML, CSS, and Java
 
 ## 🚀 Live Demo
 
-👉 [Use the Calculator](https://your-live-app-link.example.com)
+👉 [Use the Calculator]((https://daily-compound-calculator.blogspot.com/)
 
 ---
 
